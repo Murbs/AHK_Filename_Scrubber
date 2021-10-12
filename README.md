@@ -1,6 +1,6 @@
-# AHK_Filename_Scrubber
+# Filename Scrubber
 
-I had this annoying issue with some proprietary software, where exported files are forced into having a trailing counter(Ex: filename_image_001). Even more annoying, is that this software is super inconsistent with what it requires to have said trailing counter. So rather than have a batch renaming tool or some regex voodoo, I made a quick AHK macro I can bind to my mouse buttons to quickly rename a file.
+Quick AHK macro to remove trailing counter on filenames. Admittedly super niche but very useful in my day-to-day as a mouse bind.
 
 <H2>How to use</H2>
 
